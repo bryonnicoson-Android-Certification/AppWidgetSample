@@ -60,4 +60,13 @@
 
     </LinearLayout>
 
+    <Button
+        style="@style/AppWidgetButton"
+        android:text="Update now"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/section_update"
+        android:id="@+id/button_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </RelativeLayout>
